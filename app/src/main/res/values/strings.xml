@@ -3,4 +3,10 @@
     <string name="today">Today</string>
     <string name="week">Week</string>
     <string name="search">Search</string>
+    <string name="sunset">Sunset</string>
+    <string name="sunrise">Sunrise</string>
+    <string name="temp">Temp</string>
+    <string name="wind">Wind</string>
+    <string name="humidity">Humidity</string>
+    <string name="cloud">Cloud</string>
 </resources>
